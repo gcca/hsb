@@ -1,0 +1,7 @@
+!src/system.conf.js
+build
+node_modules
+src/**/*.css
+src/**/*.html
+src/**/*.js
+src/**/*.map
